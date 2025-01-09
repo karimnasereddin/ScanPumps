@@ -39,8 +39,3 @@ The script will connect to the Solana blockchain and start monitoring for new Pu
 
 ![Screenshot](scanexample.png)
 
-
-## Disclaimer
-
-*   Use this script responsibly and respect the Solana terms of service.
-*   Be cautious when participating in any "pump" activities, as they carry significant financial risks.
